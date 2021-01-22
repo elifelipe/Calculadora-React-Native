@@ -1,4 +1,4 @@
-# Calculadora-Reac-Native
+# Calculadora-React-Native
 
 Para iniciar este projeto em seu pc
 
