@@ -4,7 +4,7 @@ Para iniciar este projeto em seu pc
 
 1# 
 
-yarn install
+npm i
 
 2#
 
